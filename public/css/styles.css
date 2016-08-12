@@ -1,0 +1,96 @@
+.btn-h1-spacing{
+	margin-top: 18px;
+}
+
+.form-spacing-top {
+	margin-top: 30px;
+}
+
+.user-login {
+    padding: 20px;
+}
+
+.dropdown-menu li a {
+    color: #21b384;
+}
+
+.dropdown-menu li a:hover {
+    color: whitesmoke;
+    background-color: #21b384;
+}
+
+#login-panel {
+    
+    margin-top: 100px;
+    
+}
+
+.ispis-head {
+    color: #21b384;
+}
+
+.tablica {
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+.datum-head {
+    color: aliceblue;
+    background-color: #333;
+    
+}
+
+.ukupno-head {
+    
+    color: aliceblue;
+    background-color: #333;
+}
+
+.datum-body {
+    color:darkgreen;
+}
+
+.ukupno-body {
+    color:darkred;
+}
+
+th {
+    text-align: center;
+}
+
+.formular-head {
+    background-color: #be1e2d;
+    color: #fff;
+    margin-top: 40px;
+    height: 80px;
+    line-height: 80px;
+    font-size: 25px;
+    border-radius: 5px 5px 0 0;
+    border: solid 5px #661e2d;
+    text-align: center;
+    border-bottom: none;
+}
+
+.formular-body {
+    
+    margin-top: 0;
+    border: solid 5px #661e2d;
+    border-top: none;
+    padding: 15px;
+    border-radius: 0 0 5px 5px;
+}
+
+.paginacija {
+    margin-bottom: 50px;
+}
+
+.jumbotron {
+    background-color: #fff;
+}
+
+.footer {
+    height: 50px;
+    padding: 1rem;
+    color: #21b384;
+    
+}
